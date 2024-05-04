@@ -1,6 +1,8 @@
 # Disable-AutoRespawn
 Easily disable the autorespawn that FiveM comes with by default.
 
+## Warning
+This won't respawn/revive you unless you have a different script for respawning/reviving, this script is barely tested so there might be bugs, if there are bugs just join my [Discord server](https://discord.gg/eJfgfFtZ2r) and open a ticket.
 
 # Install Instructions
 >1. Extract the .zip
@@ -12,6 +14,3 @@ Easily disable the autorespawn that FiveM comes with by default.
 >4. Restart your server
 >
 >5. That's it, it's installed
-
-## Warning
-This won't respawn/revive you unless you have a different script for respawning/reviving.
