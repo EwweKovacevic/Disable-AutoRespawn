@@ -3,7 +3,8 @@ Easily disable the autorespawn that FiveM comes with by default.
 
 
 # Install Instructions
-> 
+>1. Extract the .zip
+>
 >2. Put the "spawnmanager" folder into your resources/[system] folder.
 >
 >3. Add ensure/start(or whatever you use to start resources) spawnmanager to your server.cfg if it's not already there (it should be there, otherwise you will be stuck on "Awaiting Scripts" when loading into your server)
